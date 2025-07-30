@@ -24,7 +24,9 @@ Computes and prints the mean, median, mode, range, variance, and standard deviat
 
 # Example Testcase
 1 -2 33 56 78 94 -50 -7
-Output :
+
+Output:
+
 Mean of given data set is: 25.38 
 
 Median of given data set is: 17.00
